@@ -1,0 +1,22 @@
+{
+    "version": "0.0.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Gjergj/dibra/releases/download/v0.0.4/dibra_0.0.4_windows_amd64.zip",
+            "bin": [
+                "dibra.exe"
+            ],
+            "hash": "6f89e25358fac28ed376280f03e6ffc71d81190831091597700d39238898abb7"
+        },
+        "arm64": {
+            "url": "https://github.com/Gjergj/dibra/releases/download/v0.0.4/dibra_0.0.4_windows_arm64.zip",
+            "bin": [
+                "dibra.exe"
+            ],
+            "hash": "f70ff139a0c6b25c3da6b32d225bf1a242ffb612bdc7b40be0aca641cf6397f3"
+        }
+    },
+    "homepage": "https://github.com/Gjergj/dibra",
+    "license": "MIT",
+    "description": "A minimal Ansible-like configuration management tool written in Go"
+}

@@ -1,19 +1,19 @@
 {
-    "version": "0.0.14",
+    "version": "0.0.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Gjergj/dibra/releases/download/v0.0.14/dibra_0.0.14_windows_amd64.zip",
+            "url": "https://github.com/Gjergj/dibra/releases/download/v0.0.16/dibra_0.0.16_windows_amd64.zip",
             "bin": [
                 "dibra.exe"
             ],
-            "hash": "e22ddc3d0c937dd43a15044db7ddd6444f83996af7e8ff458874b05827f4b168"
+            "hash": "01bfdec18043966d1d8f639af792636f9cc8d3f094eb88a634341270ba1c6a2d"
         },
         "arm64": {
-            "url": "https://github.com/Gjergj/dibra/releases/download/v0.0.14/dibra_0.0.14_windows_arm64.zip",
+            "url": "https://github.com/Gjergj/dibra/releases/download/v0.0.16/dibra_0.0.16_windows_arm64.zip",
             "bin": [
                 "dibra.exe"
             ],
-            "hash": "897f6ee4213230f18098657ec402dd758700776480f31b70c986965ef0ac0a45"
+            "hash": "574c0068b7cc3ae4ac05edfd37ed53c71a85e1fd7d04335775ab458c0b212e88"
         }
     },
     "homepage": "https://github.com/Gjergj/dibra",
